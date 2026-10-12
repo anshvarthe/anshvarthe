@@ -20,7 +20,7 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
   <a href="https://linkedin.com/in/utpal-jani-20ba25304" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:anshvarthe@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anshvarthe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://instagram.com/utpal_jani_1984" target="_blank">
