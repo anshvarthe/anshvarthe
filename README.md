@@ -23,12 +23,10 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anshvarthe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://instagram.com/utpal_jani_1984" target="_blank">
+<a href="https://instagram.com/__.aasshhh.___" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/utpaljani510" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+  
 </div>
 
 ---
