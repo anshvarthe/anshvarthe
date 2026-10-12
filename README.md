@@ -1,9 +1,8 @@
 # 💫Ansh | Data Analyst | Data Scientist
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst;Data+Scientist;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 </div>
-
 ---
 ### 👋 About Me
 I am a **Data Analyst** with a strong passion for turning raw, complex data into clear, actionable insights and solving real-world business problems. 
