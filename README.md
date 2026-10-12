@@ -4,13 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 </div>
 ---
-### 👋 About Me
-I am a **Data Analyst** with a strong passion for turning raw, complex data into clear, actionable insights and solving real-world business problems. 
 
--  **What I Do:** Build end-to-end data pipelines, interactive dashboards, and exploratory data analyses using **Python, SQL, Power BI, and Excel**.
-- **Current Focus:** Deepening expertise in **Advanced Power BI (DAX & Power Query)**, complex **SQL querying**, statistical data manipulation with **Pandas/NumPy**, and executive data storytelling.
-- **Philosophy:** Every dataset has a story to tell—my goal is to uncover that narrative to drive better business decisions.
-- **Hobbies:** Documenting my learning journey, creating technical content, and continuously learning new analytics frameworks.
+### 👋 About Me
+
+**Data Analyst | Aspiring Data Scientist** passionate about turning data into actionable insights and solving real-world business problems.
+
+- 📊 Skilled in **Python, SQL, Power BI, Excel & Data Visualization**
+- 🐍 Working with **Pandas, NumPy & Exploratory Data Analysis**
+- 📈 Building **interactive dashboards and end-to-end data projects**
+- 🧠 Currently strengthening **Statistics, DAX, Power Query & Data Science**
+- 🚀 Passionate about **data-driven decision making and continuous learning**
 
 ---
 
